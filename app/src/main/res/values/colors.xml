@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f75632</color>
+    <color name="colorPrimaryDark">#ff592f</color>
+    <color name="colorAccent">#cecece</color>
+    <color name="colorIndivateTab">#d1d1d1</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorCardView">#d0d0d0</color>
+    <color name="grey_200">#d4d3d3</color>
+    <color name="grey_500">#a4a4a4</color>
+    <color name="grey_100">#c6c6c6</color>
+    <color name="grey_800">#212121</color>
+</resources>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "440088004179",
+    "firebase_url": "https://flautichat.firebaseio.com",
+    "project_id": "flautichat",
+    "storage_bucket": "flautichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440088004179:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440088004179-tfchoj9n6rlsm6oar61drc8m8838mki9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "d7675bf2f69f8896ecd9926d2263a4e4873ae8f9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmH7ovQKAo39ynOtUgoqKvw6kavlBsN6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440088004179-jur3rnmh1dqukg0pmnqt4cirei72oelr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
